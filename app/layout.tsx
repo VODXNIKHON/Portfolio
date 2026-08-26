@@ -14,6 +14,7 @@ const bebasNeue = Bebas_Neue({
 });
 
 // Upgraded SEO Metadata for Google Search
+// Upgraded SEO Metadata for Google Search
 export const metadata: Metadata = {
   title: "Soumya Ranjan Ghadai (Nikhil) | Creative Developer",
   description: "Portfolio of Nikhil - Specializing in high-impact video editing, custom Discord bots, community infrastructure, and frontend engineering.",
@@ -37,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://portfolio-portfolio-d51c.vercel.app/", // CRITICAL: Swap this with your actual Vercel link
+    url: "https://nikh1l.vercel.app/", 
     title: "Soumya Ranjan Ghadai | Creative Developer",
     description: "Bridging design, engineering, and digital media.",
     siteName: "Nikhil Archive",
@@ -53,9 +54,8 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  // ADD THIS NEW SECTION HERE:
   verification: {
-    google: "UdZk-SkPpD44YvJdTCzWtsdB5mRS3FGRfQAL-Z30H7U", // Replace with your actual Google verification code
+    google: "UdZk-SkPpD44YvJdTCzWtsdB5mRS3FGRfQAL-Z30H7U", 
   },
 };
 

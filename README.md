@@ -7,7 +7,7 @@ The digital foundation and interactive portfolio for creative projects — bridg
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
 ## 🌐 Live Site
-**[View the Live Portfolio Here](https://portfolio-portfolio-d51c.vercel.app/)** 
+**[View the Live Portfolio Here](https://nikh1l.vercel.app/)** 
 
 ## ⚡ Core Architecture
 This project is built with a focus on high-performance animations and seamless user experience.
