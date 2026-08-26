@@ -53,6 +53,10 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
+  // ADD THIS NEW SECTION HERE:
+  verification: {
+    google: "UdZk-SkPpD44YvJdTCzWtsdB5mRS3FGRfQAL-Z30H7U", 
+  },
 };
 
 export default function RootLayout({
