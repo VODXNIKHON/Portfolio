@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   // ADD THIS NEW SECTION HERE:
   verification: {
-    google: "UdZk-SkPpD44YvJd", 
+    google: "UdZk-SkPpD44YvJdTCzWtsdB5mRS3FGRfQAL-Z30H7U", // Replace with your actual Google verification code
   },
 };
 
